@@ -1,5 +1,9 @@
 # Project Journal
 
+3/29/2022 - 3:26 am </br>
+Long time no see! </br>
+The smallest of changes takes so long when you know basically nothing and are easily distracted. The font change to serif took like an hour and a half for this reason. I am okay with this. </br>
+
 3/16/2022 - 1:58 am </br> 
 I bought my domain earlier today!</br>
 Or at least, the rights to it for a year, for the hefty price of 2 dollars! I know I have done literally nothing with it at the moment, but it still feels very exciting. lisas.site is mine! Other potential candidates were lisasweb.site (not as cool because it's not as short smh), lisas.online (cool but like a thousand dollars), lisas.computer (still cool but still expensive), and of course, lisa.wtf, lisas.fun, and lisas.cool (so true). In the end though, I settled on lisas.site. Now to connect it to my github page, which at the moment says Hello World... hopefully I'll come back to this in 20 minutes and be able to give the update that I have done this successfully. If not, I'll give that update too lol. </br>
