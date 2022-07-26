@@ -13,4 +13,5 @@ I got curious and wanted to check GoDaddy for domain options and learned lisas.w
 7/26/2022 - 1:09 am </br>
 Long time no see! Really long time actually. </br> 
 Summer is dwindling down, so it's time I get to work on this website! I think I have a general idea of what I want it to look like, which will be pretty simple, but we'll see how that turns out and then scale it up later if needed. </br>
-Currently working on the favicon! Tmw's work is making multiple pages. </br>
+Currently working on the favicon! Tmw's work is making multiple pages. 
+1:18 am - The favicon looks funky and is too small. I'll fix tmw, signing off for now. </br>
