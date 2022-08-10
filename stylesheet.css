@@ -1,5 +1,9 @@
 
-  h1 {
+ @font-face {
+    font-family: Spectral;
+    src: url(https://fonts.googleapis.com/css?family=Spectral);
+ }
+ h1 {
     color: rgb(0, 51, 87);
     text-align: center;
     text-decoration: wavy;
@@ -9,6 +13,6 @@
   }
   p {
     text-align: center;
-    font-family: 'Spectral';
+    font-family: 'Spectral', serif;
     font-size: 125%;
   }
