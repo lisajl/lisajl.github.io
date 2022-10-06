@@ -19,3 +19,6 @@ Currently working on the favicon! Tmw's work is making multiple pages.
 
 8/1/2022 - 1:06 am </br>
 New page to the website! Funky. </br>
+
+10/6/2022 - 2:39 am </br>
+I figured it would be fun to add this to my resume even though there's not much on it, so I updated a page to include a link to my resume. Internship season is scary, yeesh. Also, if future me reads this, I am currently studying in the ECE building with Seth and Apoorva. When prompted, Apoorva said, "What?" and then requested a redo. Seth just said, "I'm hungry."  After thinking, Apoorva said, "I like my apartment's couch." It is a really nice couch; it's really soft and cushiony and this really pretty brown color. Also, we have plants! I bought an extra by accident so we have twin plants. Hers is named Todd, mine is named Joe. Okay, at some point, this turned into less about the project and a journal. Oops. Until next time. </br>
