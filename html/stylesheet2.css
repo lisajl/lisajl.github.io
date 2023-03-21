@@ -1,0 +1,26 @@
+
+@import url(https://fonts.googleapis.com/css?family=Spectral);
+ 
+h1 {
+   color: rgb(0, 51, 87);
+   text-align: center;
+   text-decoration: wavy;
+   font-family: 'Spectral', serif;
+   font-style: italic;
+   font-weight: 600;
+   font-size: 197%;
+ }
+ p {
+   text-align: center;
+   font-family: 'Spectral', serif;
+   font-size: 125%;
+ }
+ h5 {
+   text-align: center;
+   font-family: 'Spectral', serif;
+   font-size: 50%;
+ }
+ body {
+    background-color: rgb(242, 244, 245)
+    /* super light grey for background color */
+ }
