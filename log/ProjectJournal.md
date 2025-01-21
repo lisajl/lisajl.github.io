@@ -33,3 +33,6 @@ Also, I spent a good 20 minutes just browsing Gossip's Web. Man, sometimes seein
 Okay, well, it's been another while. I actually put the date as 2024 thinking, hey, less than a year, not a huge difference, but actually the last time I worked on this was almost 2 years ago, and not almost a year. 
 It's senior year now! There's a few days left before I head back to school, and I figured I wanted to make this at least a bit more substantial, even if it doesn't really turn out exactly how I want it, aesthetically speaking. Other than a remote exam I've got to study for leftover from study abroad this past semester, I want to put together a first draft of the website. I've mocked up a bit of the website in Adobe Illustrator so far, which I'll attach later I don't really love the illustrations for the icons at the moment, and it just looks kind of boring in an unintentional, oh, it's actually just boring way, but we'll see what we can do about that later. 
 
+1/20/2025 - 8:26 pm </br>
+Time passes by so quickly! I finished the mockup and decided I liked it better unpixelated. I put the screenshot in log.  Unfortunately, school starts back up tomorrow and I've got quite a bit of administrative stuff I need to do, but I hope I can find some time in the next few days to setup the pages and images at least. 
+
