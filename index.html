@@ -4,15 +4,146 @@
     <title>lisa's site</title>
     <link rel="icon" type="image/png" href="../files/favicon.png">
     <meta charset="utf-8">
-    <link href="html/stylesheet2.css" type="text/css" rel="stylesheet">
+    <style>
+      body {
+        background-color: #fffff1;
+        font-family: 'Times New Roman', serif;
+        margin: 0;
+        padding: 0;
+      }
+      
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        text-align: center;
+      }
+      
+      .header {
+        margin-top: 50px;
+        margin-bottom: 60px;
+      }
+      
+      h1 {
+        color: #0a3049;
+        font-size: 2.5rem;
+        font-weight: normal;
+        margin-bottom: 5px;
+      }
+      
+      .subtitle {
+        font-size: 1rem;
+        margin-top: 5px;
+      }
+      
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-row-gap: 100px;
+        grid-column-gap: 40px;
+        margin: 0 auto;
+        max-width: 1000px;
+      }
+      
+      .grid-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-decoration: none;
+        color: #000;
+      }
+      
+      .grid-item img {
+        width: 150px;
+        height: 150px;
+        object-fit: contain;
+        margin-bottom: 5px;
+      }
+      
+      .grid-item:nth-child(2) img {
+        /* toolbox */
+        margin-top:5px;
+      }
+      .grid-item:nth-child(2) .label {
+        margin-top: -5px; 
+      }
+
+      .grid-item:nth-child(3) img {
+        /* CD image - more stuff */
+        width: 100px;
+        height: 100px;
+        margin-top: 25px;
+        margin-bottom: 20px;
+      }
+
+      .grid-item:nth-child(4) img {
+        /* projects */
+        margin-top: -24px;
+        margin-bottom:5px;
+      }
+      
+      .grid-item:nth-child(5) img {
+        /* Stack of papers - blog/posts */
+        width: 160px;
+        height: 160px;
+      }
+      .grid-item:nth-child(5) .label {
+        margin-top: -20px; 
+      }
+
+      
+      .label {
+        font-size: 1.3rem;
+        margin-top: 5px;
+        min-height: 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+    </style>
   </head>
-<body>
-<h1> hello world! </h1>
-<p> welcome to my humble abode!! </br> 
-  this webpage is a work in progress, check back later for more :) </br> </br> </br> <a href = "html/resume.html">
-  <img src = "https://c.tenor.com/pXEDrZV2s4QAAAAi/star-spinning.gif" alt="mario star gif" width="200" height="200" class="center"></a> 
-  </br>click star for surprise. 
-</br></br> - lisa </br>
-</p>
-</body>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h1>lisa's site</h1>
+        <p class="subtitle">hello! i've got some stuff and it's here for your perusal</p>
+      </div>
+      
+      <div class="grid">
+        <a href="html/aboutme.html" class="grid-item">
+          <img src="../files/1x/Asset 4.png" alt="Star drawing">
+          <div class="label">about me</div>
+        </a>
+        
+        <a href="../files/Resume-20250418.pdf" class="grid-item">
+          <img src="../files/1x/Asset 1.png" alt="Toolbox">
+          <div class="label">resume</div>
+        </a>
+        
+        <a href="html/more.html" class="grid-item">
+          <img src="../files/1x/Asset 5.png" alt="CD">
+          <div class="label">more stuff</div>
+        </a>
+        
+        <a href="html/projects.html" class="grid-item">
+          <img src="../files/1x/Asset 2.png" alt="Cardboard box">
+          <div class="label">projects</div>
+        </a>
+        
+        <a href="html/blog.html" class="grid-item">
+          <img src="../files/1x/Asset 6.png" alt="Stack of papers">
+          <div class="label">blog / posts</div>
+        </a>
+      </div>
+    </div>
+  </body>
 </html>
+<!-- stuff to consider
+  - how to do index page and folders
+  - different modes with different buttons
+  - maybe change different font? spectral doesn't fit theme of new idea
+
+  next steps: 
+  - make other icons for pages
+  - add first icon and click to page
+  - add content to pages 
+-->
