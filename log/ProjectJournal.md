@@ -21,7 +21,7 @@ Currently working on the favicon! Tmw's work is making multiple pages.
 New page to the website! Funky. </br>
 
 10/6/2022 - 2:39 am </br>
-I figured it would be fun to add this to my resume even though there's not much on it, so I updated a page to include a link to my resume. Internship season is scary, yeesh. Also, if future me reads this, I am currently studying in the ECE building with Seth and Apoorva. When prompted, Apoorva said, "What?" and then requested a redo. Seth just said, "I'm hungry."  After thinking, Apoorva said, "I like my apartment's couch." It is a really nice couch; it's really soft and cushiony and this really pretty brown color. Also, we have plants! I bought an extra by accident so we have twin plants. Hers is named Todd, mine is named Joe. Okay, at some point, this turned into less about the project and a journal. Oops. Until next time. </br>
+I figured it would be fun to add this to my resume even though there's not much on it, so I updated a page to include a link to my resume. Internship season is scary, yeesh. Also, if future me reads this, I am currently studying in the ECE building with Seth and Apoorva. When prompted, Apoorva said, "What?" and then requested a redo. Seth just said, "I'm hungry."  After thinking, Apoorva said, "I like my apartment's couch." It is a really nice couch; it's really soft and cushiony and this really pretty brown color. Also, we have plants!" I bought an extra by accident so we have twin plants. Hers is named Todd, mine is named Joe. Okay, at some point, this turned into less about the project and a journal. Oops. Until next time. </br>
 
 3/21/2023 - 6:33 am </br>
 Ah, it's been a while. I got busy with school and forgot, but the other day I randomly saw some art that reminded me of wanting to make this website have actual stuff on it, so I'm determined to make this happen. 
@@ -35,4 +35,13 @@ It's senior year now! There's a few days left before I head back to school, and 
 
 1/20/2025 - 8:26 pm </br>
 Time passes by so quickly! I finished the mockup and decided I liked it better unpixelated. I put the screenshot in log.  Unfortunately, school starts back up tomorrow and I've got quite a bit of administrative stuff I need to do, but I hope I can find some time in the next few days to setup the pages and images at least. 
+
+4/22/25 - 8:23 pm </br>
+I'm sitting in the CIF with Yash and Liza! </br>
+It's been a really gorgeous day weather-wise (low 70s, sunny), and I'm glad I could spend a few hours of today out in the grass and sun. It's also Earth Day, actually, so, no better time for it. 
+Time's moving too fast! I graduate in a few weeks, but I really wish there was an extra month to spend soaking up all the wonderful people I've met here and all the clubs and places and feelings I've come to be familiar with. I spent so much time as a kid wondering who and where and what I'd be when I'm 21, but I'm here now, and I still can't really wrap my head around it. </br>
+I feel so steadfastly optimistic about the future; every year, everything grows more vivid and striking and demanding of interest, but still I'm really, really going to miss everything here. </br>
+Re-the website, I've added the pages and implemented the mockup in the screenshot, but it's still all static pages. Much to do in the summer! 
+
+8:41 pm -> hey someone gave us free pizza! nice
 
