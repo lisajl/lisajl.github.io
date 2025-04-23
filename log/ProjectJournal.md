@@ -40,7 +40,7 @@ Time passes by so quickly! I finished the mockup and decided I liked it better u
 I'm sitting in the CIF with Yash and Liza! </br>
 It's been a really gorgeous day weather-wise (low 70s, sunny), and I'm glad I could spend a few hours of today out in the grass and sun. It's also Earth Day, actually, so, no better time for it. 
 Time's moving too fast! I graduate in a few weeks, but I really wish there was an extra month to spend soaking up all the wonderful people I've met here and all the clubs and places and feelings I've come to be familiar with. I spent so much time as a kid wondering who and where and what I'd be when I'm 21, but I'm here now, and I still can't really wrap my head around it. </br>
-I feel so steadfastly optimistic about the future; every year, everything grows more vivid and striking and demanding of interest, but still I'm really, really going to miss everything here. </br>
+I feel so steadfastly optimistic about the future; every year, everything grows more vivid and striking and demanding of interest, and I'm really grateful I can say that wholeheartedly. But still, I'm really, really going to miss everything here. </br>
 Re-the website, I've added the pages and implemented the mockup in the screenshot, but it's still all static pages. Much to do in the summer! 
 
 8:41 pm -> hey someone gave us free pizza! nice
