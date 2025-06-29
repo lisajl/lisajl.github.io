@@ -14,11 +14,11 @@
   margin-bottom: 5px;
 }
   p {
-    text-align: center;
+    /* text-align: center; */
     font-family: 'Spectral', serif;
-    font-size: 125%;
-    margin-left: 150px;
-    margin-right: 150px;
+    font-size: 110%;
+    margin-left: 375px;
+    margin-right: 375px;
   }
   h5 {
     text-align: center;
