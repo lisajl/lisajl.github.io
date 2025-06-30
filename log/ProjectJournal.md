@@ -45,3 +45,7 @@ Re-the website, I've added the pages and implemented the mockup in the screensho
 
 8:41 pm -> hey someone gave us free pizza! nice
 
+6/29/25
+Added some stuff! Added a blog post and fixed the alignment for some stuff yday. The website definitely looks better than it did, for sure, but I can't help but feel like it's kind of boring looking. Part of that will improve the more stuff I add, but also I don't know - I kind of want it to be more interactive, more fun to click around. Maybe ill make it a sketch of my room, or a room, and put clickable stuff that way? Idk, maybe that's overdone. We'll see. 
+
+
